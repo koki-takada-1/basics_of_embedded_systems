@@ -1,0 +1,2 @@
+# basics_of_embedded_systems
+組込みシステムの基本 。Arduinoを使ったマイコン制御
